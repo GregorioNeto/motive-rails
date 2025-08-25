@@ -64,3 +64,6 @@ As frases extras são geradas pelo gerador `Inspirational.build` (`app/models/in
 ## Deploy
 
 Há um `Dockerfile` e suporte a Kamal, mas o deploy não está coberto aqui.
+
+## Tela
+<img width="714" height="530" alt="image" src="https://github.com/user-attachments/assets/adc959a3-0c5e-43cd-b97c-0c3429be71f9" />
